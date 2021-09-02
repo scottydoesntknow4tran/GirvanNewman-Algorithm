@@ -1,4 +1,4 @@
-# Please use this readme file to describe your project. 
+# Grivan-Newman Algorithm
 
 I will be implementing a "Divisive Method" of the Girvan-Newman Algorithm
 In divisive methods, we start with the complete graph and take off the edges iteratively. The edge with the highest weight is removed first. At every step, the edge-weight calculation is repeated, since the weight of the remaining edges changes after an edge is removed. After a certain number of steps, we get clusters of densely connected nodes.
